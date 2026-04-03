@@ -1,0 +1,102 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gauntlet.idle": {
+			"loop": true,
+			"animation_length": 1.0,
+			"bones": {}
+		},
+		"animation.gauntlet.activate": {
+			"animation_length": 0.5,
+			"bones": {
+				"Hook": {
+					"rotation": {
+						"0.0": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.2917": {"vector": [0, 0, 0]},
+						"0.5": {"vector": [-360, 0, 0]}
+					}
+				},
+				"Hook1": {
+					"rotation": {
+						"0.0": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.0833": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook2": {
+					"rotation": {
+						"0.0": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.2083": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook3": {
+					"rotation": {
+						"0.0": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.3333": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				}
+			}
+		},
+		"animation.gauntlet.spin": {
+			"loop": true,
+			"animation_length": 0.125,
+			"bones": {
+				"Hook": {
+					"rotation": {
+						"0.0": {"vector": [0, 0, 0]},
+						"0.125": {"vector": [-360, 0, 0]}
+					}
+				},
+				"Hook1": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook2": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook3": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				}
+			}
+		},
+		"animation.gauntlet.release": {
+			"animation_length": 0.5833,
+			"bones": {
+				"Hook": {
+					"rotation": {
+						"0.0": {"vector": [0, 0, 0]},
+						"0.1667": {"vector": [-360, 0, 0]},
+						"0.5833": {
+							"pre": {"vector": [-360, 0, 0]},
+							"post": {"vector": [-360, 0, 0]},
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"Hook1": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.0833": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook2": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.2083": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				},
+				"Hook3": {
+					"rotation": {
+						"0.0": {"post": {"vector": [25, 0, 0]}, "lerp_mode": "catmullrom"},
+						"0.3333": {"post": {"vector": [0, 0, 0]}, "lerp_mode": "catmullrom"}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
