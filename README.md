@@ -1,6 +1,6 @@
 # Skyhook: Rezipped!
 
-[![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)](https://files.minecraftforge.net/) [![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net/) [![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)
+[![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)
 
 An addon for [Zipline: Rezipped](https://www.curseforge.com/minecraft/mc-mods/ziplines-rezipped) — adding Skyhook functionality to your zipline experience!
 
@@ -38,8 +38,3 @@ Supported mods (via Zipline: Rezipped) include:
 *   [Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)
 *   [Station Decoration (Minecraft Transit Railway addon)](https://modrinth.com/mod/station-decoration)
 
----
-
-## License
-
-[![Code license (MIT)](https://img.shields.io/badge/code%20license-MIT-green.svg?style=flat-square)](LICENSE.txt)
