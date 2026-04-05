@@ -43,4 +43,9 @@ Supported mods (via Zipline: Rezipped) include:
 *   **2D UI Texture Artist / Mod Icon Assistance:** [Ikachap](https://www.tumblr.com/ikachap)
 *   **Zipline: Rezipped! Creator:** [Evanbones](https://github.com/evanbones)
 
+***
+
+## License
+
+[![Code license (MIT)](https://img.shields.io/badge/code license-MIT-green.svg?style=flat-square)]([https://github.com/evanbones/Ziplines-Rezipped/blob/1.21.1/LICENSE.txt](https://github.com/KKingOfficial/Skyhook-Ziplined/blob/main/LICENSE.txt))
 
