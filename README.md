@@ -1,4 +1,4 @@
-# Skyhook: Rezipped!
+# Skyhook: Ziplined!
 
 [![neoforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)
 
