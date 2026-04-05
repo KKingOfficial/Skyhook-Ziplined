@@ -12,7 +12,7 @@ An addon for [Zipline: Rezipped](https://www.curseforge.com/minecraft/mc-mods/zi
 
 ### How to Use the Skyhook
 
-1.  **Craft or obtain a Skyhook** (see *Crafting* below).
+1.  **Craft a Skyhook** (see *Crafting* below).
 2.  **Aim** at a compatible cable, wire, or chain.
 3.  **Hold Right-Click** to attach and start zipping.
 4.  **Look** in the direction you want to travel to influence your momentum.
@@ -37,4 +37,10 @@ Supported mods (via Zipline: Rezipped) include:
 
 *   [Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)
 *   [Station Decoration (Minecraft Transit Railway addon)](https://modrinth.com/mod/station-decoration)
+
+## Credits
+
+*   **2D UI Texture Artist / Mod Icon Assistance:** [Ikachap](https://www.tumblr.com/ikachap)
+*   **Zipline: Rezipped! Creator:** [Evanbones](https://github.com/evanbones)
+
 
